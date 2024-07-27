@@ -1,0 +1,4 @@
+BriefITenv/
+*.env
+venv/
+*.txt
